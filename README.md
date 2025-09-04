@@ -1,6 +1,6 @@
-# AtliQ Hardware Data-Analysis
+# AtliQ Hardware Data-Analysis : [Presentation Link](https://www.youtube.com/watch?v=g4Yihgvz60Y)
+
 Data-Driven Insights from AtliQ Hardware's Sales &amp; Finance Performance
-[Presentation Link](https://www.youtube.com/watch?v=g4Yihgvz60Y)
 
 # 1. Revenue Growth & Profitability Trends
 
