@@ -28,3 +28,49 @@ Prioritize high-margin markets (e.g., New Zealand) for expansion.
 ### Actionable Insights:
 - Reallocate resources from underperforming markets (e.g., Poland) to resilient ones (e.g., India, Portugal).
 - Address region-specific challenges (e.g., competition in Spain).
+
+
+# 3. Customer Performance Highlights
+## Key Findings:
+### Top 5 Customers by 2021 Revenue:
+- Amazon (INR 82.1M)
+- Atliq Exclusive (INR 61.1M)
+- Atliq eStore (INR 53.0M)
+- Flipkart (INR 19.3M)
+- Leader (INR 18.8M)
+### Fastest-Growing Customers:
+- Nova (2664.9% YoY), Integration Stores (887.2%), Chiptec (722.0%).
+### Actionable Insights:
+- Strengthen partnerships with high-growth clients (e.g., Nova).
+- Launch loyalty programs for top customers (e.g., Amazon, Atliq Exclusive).
+
+
+# 4. Quarterly Sales Trends
+## Key Findings:
+- Seasonal Peaks: Highest sales in Q4 (Dec 2021: INR 78.1M).
+- Anomaly: March 2020 saw a 67.1% drop (likely due to COVID-19 disruptions).
+- 2021 Recovery: March 2021 revenue surged 1981.6% YoY.
+## Actionable Insights:
+- Plan inventory and marketing around Q4 peaks.
+- Build contingency plans for external shocks (e.g., supply chain disruptions)
+
+# 5. Cost & Efficiency Analysis
+## Key Findings:
+### COGS Growth Outpaced Revenue:
+- COGS rose 208.6% (2021) vs. 204.5% revenue growth, squeezing margins.
+###High-Cost Markets:
+- Germany (GM%: 26.2%), Austria (30.1%), Norway (29.5%).
+### Actionable Insights:
+- Renegotiate supplier terms in high-COGS markets.
+- Optimize logistics for cost-heavy regions (e.g., Germany).
+
+# 6. Strategic Recommendations
+
+## 1. Profitability Focus:
+-	Reduce COGS in low-GM% markets (e.g., Germany) via bulk purchasing.
+## 2.Customer-Centric Growth:
+-	Expand high-potential accounts (e.g., Nova, Integration Stores).
+## 3.Target Remediation:
+-	Conduct root-cause analysis for underperforming markets (e.g., Poland).
+## 4.Seasonal Planning:
+- Boost Q4 promotions to capitalize on peak demand
