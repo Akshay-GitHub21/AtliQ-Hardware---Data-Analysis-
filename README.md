@@ -1,7 +1,7 @@
 # AtliQ Hardware Data-Analysis
 Data-Driven Insights from AtliQ Hardware's Sales &amp; Finance Performance
 
-# Revenue Growth & Profitability Trends
+# 1. Revenue Growth & Profitability Trends
 
 
 ## Key Findings:
@@ -14,5 +14,17 @@ Data-Driven Insights from AtliQ Hardware's Sales &amp; Finance Performance
 ### Actionable Insights:
 Investigate cost drivers (e.g., logistics, supplier contracts) to reverse GM% decline.
 Prioritize high-margin markets (e.g., New Zealand) for expansion.
-<img width="2256" height="690" alt="image" src="https://github.com/user-attachments/assets/79c2d9a7-87dd-45a4-adef-ed03bb2398ca" />
 
+
+# 2. Market Performance vs. Targets
+
+
+## Key Findings:
+- All markets missed 2021 targets by -9.17% (INR -54.9M shortfall).
+### Worst Underperformers:
+- Poland (-18.13%), Spain (-14.15%), Canada (-14.45%).
+### Best Performers (Closest to Target):
+- Portugal (-4.29%), Japan (-4.12%), India (-5.92%).
+### Actionable Insights:
+- Reallocate resources from underperforming markets (e.g., Poland) to resilient ones (e.g., India, Portugal).
+- Address region-specific challenges (e.g., competition in Spain).
